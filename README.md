@@ -9,3 +9,7 @@ Buyer can rate the experience of buying the product, seller and delivery etc. Th
 A complete production-level project of NodeJS Microservice with Serverless technology. Through this I will build and deploying an enterprise-level application .I will get a good understanding of going from scratch to production using AWS infrastructure using infrastructure as code.
 
 Let's SOLID principle with a CQRS design pattern, and clean architecture. I will also use the latest technologies and best practices to build a scalable and maintainable application.
+
+## Weekly Progress Articles
+
+- [Week 1](https://medium.com/@officialsiddharthbisht/build-in-open-source-d06202a88ce4)
