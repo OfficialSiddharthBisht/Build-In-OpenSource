@@ -36,3 +36,4 @@
 ## Basic Architecture
 
 ![Basic Architecture](./assets/basic-architcture.png)
+![Serverless Framework](./assets/serverless-framework1.png)

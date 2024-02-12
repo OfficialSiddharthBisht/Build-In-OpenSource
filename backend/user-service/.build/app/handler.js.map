@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "handler.js",
+  "sourceRoot": "",
+  "sources": [
+    "../../app/handler.ts"
+  ],
+  "names": [],
+  "mappings": ";;;;;;;;;;;;AAEO,MAAM,MAAM,GAAG,CAAO,KAA6B,EAAE,EAAE;IAC5D,OAAO;QACL,UAAU,EAAE,GAAG;QACf,OAAO,EAAE;YACP,6BAA6B,EAAE,GAAG;SACnC;QACD,IAAI,EAAE,IAAI,CAAC,SAAS,CAAC;YACnB,OAAO,EAAE,8BAA8B;YACvC,IAAI,EAAE,EAAE;SACT,CAAC;KACH,CAAC;AACJ,CAAC,CAAA,CAAC;AAXW,QAAA,MAAM,UAWjB"
+}
